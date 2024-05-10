@@ -69,16 +69,15 @@ Span{
   .sideCard {
     margin-top: 130px;
   }
-footer {
-    height: 70px;
-    border-top: 0px solid;
-    position: fixed;
-    left: 0%;
-    bottom: 0%;
-    width: 100%;
-    text-align: center;
-    background-color: darkorchid;
-    color: azure;
-    text-decoration: solid;
-    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+
+.btn-floating i {
+    line-height: 1; 
+    display: inline-block;
+    vertical-align: middle; 
+}
+.btn {
+    padding: 10px; 
+    line-height: 1; }
+footer{
+    margin-top: 100px;
 }

@@ -45,18 +45,14 @@ body{
     text-decoration: solid;
 }
 
+.btn-floating i {
+    line-height: 1; 
+    display: inline-block;
+    vertical-align: middle; 
+}
+.btn {
+    padding: 10px; 
+    line-height: 1; }
 footer{
-    
-    height: 70px;
-    border-top: 2px solid;
-    position: fixed;
-    left: 0%;
-    bottom: 0%;
-    width: 100%;
-    text-align: center;
-    background-color: darkorchid;
-    color: azure; 
-    text-decoration: solid;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
+    margin-top: 100px;
 }
